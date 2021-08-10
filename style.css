@@ -1,0 +1,29 @@
+#nav {
+    background: url("./images/desktop/image-header.jpg") center/cover no-repeat;
+}
+.nav-item {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+#nav-contact :hover {
+    color: white !important;
+    background-color: #99dbf5 !important;
+}
+#btn1  :hover {
+    border-bottom: 5px solid #FAD400  ;
+}
+#btn a,#btn1 a {
+    text-decoration: none;
+}
+#btn  :hover {
+    border-bottom: 5px solid #FE7867  ;
+}
+
+.hv1 {
+    cursor: pointer;
+}
+.hv1 :hover {
+    color: #fff;
+    fill:#fff;
+}
